@@ -1,0 +1,20 @@
+.wrapper{
+    max-width: 80%;
+    margin: auto;
+}
+
+.rowWrapper{
+    display: flex;
+}
+.start{
+    background-color: green;
+}
+.end{
+    background-color: red;
+}
+.start-click{
+    background-color: greenyellow;
+}
+.end-click{
+    background-color: palevioletred;
+}
